@@ -1,0 +1,9 @@
+name: shiny
+account: lshu-sears
+server: shinyapps.io
+appId: 76778
+bundleId: 344427
+url: https://lshu-sears.shinyapps.io/shiny/
+when: 1452105793.6987
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,9 @@
+name: price_finder
+account: lshu-sears
+server: shinyapps.io
+appId: 77121
+bundleId: 347594
+url: https://lshu-sears.shinyapps.io/price_finder/
+when: 1452533485.98014
+asMultiple: FALSE
+asStatic: FALSE
